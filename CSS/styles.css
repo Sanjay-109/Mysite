@@ -1,0 +1,199 @@
+body {
+    margin: 0 ;
+    text-align: center ;
+}
+
+.top-container {
+    background-color: #FFF2CC ;
+    padding-top: 100px ;
+    padding-bottom: 100PX ;
+}
+
+p {
+    line-height: 2 ;
+}
+
+.name-cloud {
+    display: flex ;
+    justify-content: center ;
+    height: 300px ;
+    gap: 40px;
+}
+
+.name {
+    align-self: center ;
+}
+
+.img1 {
+    align-self: flex-start ;
+}
+
+.img2 {
+    align-self: flex-end ;
+}
+
+h1 {
+    margin: 50px ;
+    font-family: sacramento ;
+    font-size: 5.652rem ;
+    color: #3C2A21 ;
+}
+
+h2 , h3 {
+    font-family: montserrat ;
+    color: #3C2A21 ;
+}
+
+
+
+.status {
+    font-weight: normal ;
+    font-size: 1.25rem ;
+}
+
+.pro {
+    text-decoration: underline ;
+}
+
+.brain {
+    height: 75px ;
+    width: 100px ;
+}
+
+.ai-human {
+    height: 100px ;
+    width: 85px ;
+}
+
+.code {
+    height: 550px ;
+    width : 800px ;
+}
+
+.middle-container {
+    padding-top: 100px ;
+    padding-bottom: 100px ;
+}
+
+.me {
+    border-radius: 100% ;
+    height: 250px ;
+    width: 250px ;
+}
+
+.about-myself {
+    width: 30% ;
+    margin: auto ;
+}
+
+hr {
+    width: 5% ;
+    border: 6px dotted #dae0e0 ;
+    border-bottom: none ;
+    margin: 100px auto ;
+}
+
+.attr {
+    color: white;
+}
+
+.skills {
+    padding: 100px auto ;
+}
+
+.skills img {
+    border-radius: 100% ;
+    height: 200px ;
+    width: 210px ;
+}
+
+.skill1 {
+    display: flex ;
+    justify-content: center ;
+    padding-top: 100px ;
+    gap: 10px ;
+}
+
+.skill2 {
+    display: flex ;
+    justify-content: center ;
+    flex-flow: row-reverse ;
+    padding-top: 100px ;
+    gap: 20px ;
+}
+
+.skill3 {
+    display: flex ;
+    justify-content: center ;
+    padding-top: 100px ;
+    gap: 20px ;
+}
+
+.skill1-content {
+    width: 30% ;
+    text-align: left ;
+}
+
+.skill2-content {
+    width: 30% ;
+    text-align: left ;
+}
+
+.skill3-content {
+    width: 30% ;
+    text-align: left ;
+}
+
+.contact p {
+    width: 30% ;
+    margin: 50px auto ;
+}
+
+.btn {
+    background: #3C2A21;
+    background-image: -webkit-linear-gradient(top, #3C2A21, #3C2A21);
+    background-image: -moz-linear-gradient(top, #3C2A21, #3C2A21);
+    background-image: -ms-linear-gradient(top, #3C2A21, #3C2A21);
+    background-image: -o-linear-gradient(top, #3C2A21, #3C2A21);
+    background-image: linear-gradient(to bottom, #3C2A21, #3C2A21);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #6e1b04;
+    background-image: -webkit-linear-gradient(top, #6e1b04, #6e1b04);
+    background-image: -moz-linear-gradient(top, #6e1b04, #6e1b04);
+    background-image: -ms-linear-gradient(top, #6e1b04, #6e1b04);
+    background-image: -o-linear-gradient(top, #6e1b04, #6e1b04);
+    background-image: linear-gradient(to bottom, #6e1b04, #6e1b04);
+    text-decoration: none;
+  }
+
+  .bottom-container {
+    background-color: #3C2A21;
+    padding: 50px 0px 20px ;
+  }
+
+  a {
+    color: #dae0e0 ;
+    text-decoration: none ;
+    font-family: montserrat ;
+    margin: 10px 20px ;
+  }
+
+  a:hover {
+    color: #dae0e0 ;
+    text-decoration: underline ;
+  }
+
+  .copyrights {
+    color: #dae0e0 ;
+    font-size: 0.75rem ;
+  }
